@@ -5,6 +5,9 @@
     <img src="https://img.shields.io/badge/React%20Native-F29111?logo=React"/>
     <img src="https://img.shields.io/badge/Expo-8A2BE2?logo=Expo"/>
     <img src="https://img.shields.io/badge/React-1C78C0?logo=React"/>
+    <img src="https://img.shields.io/badge/Redux-8732D6?logo=redux"/>
+    <img src="https://img.shields.io/badge/TypeScript-1B1B1D?logo=typescript"/>
+    <img src="https://img.shields.io/badge/JavaScript-F29111?logo=javascript"/>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
