@@ -22,6 +22,8 @@
 <br></br>
 
 <a href="https://www.linkedin.com/in/damian-stetson/" target="blank"><img align="center" src="https://oyepriyansh.pages.dev/assets/github/readme/linkedin.svg" alt="https://linkedin.com/in/oyepriyansh" title="Linkedin" width="35"/></a> &ensp; Check my LinkedIn!<br></br><br></br>
-<img src="https://github.com/damianstetson17/PetMindMe/blob/master/assets/gifs/petmindme_demo.gif" width="150" height="300"/>
-<img src="https://github.com/damianstetson17/bitnovo-challenge/blob/master/assets/gifs/bitnomo_fulldemo_stetson.gif" width="150" height="300"/>
-<img src="https://github.com/damianstetson17/damianstetson17/blob/master/demos/contaduria_demo.gif" width="150" height="300"/>
+<p>
+  <img src="https://github.com/damianstetson17/PetMindMe/blob/master/assets/gifs/petmindme_demo.gif" width="150" height="300"/>
+  <img src="https://github.com/damianstetson17/bitnovo-challenge/blob/master/assets/gifs/bitnomo_fulldemo_stetson.gif" width="150" height="300"/>
+  <img src="https://github.com/damianstetson17/damianstetson17/blob/master/demos/contaduria_demo.gif" width="150" height="300"/>
+</p>
