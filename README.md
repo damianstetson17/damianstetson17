@@ -1,4 +1,4 @@
-# 👋 Damián Stetson here!
+# 👋 Hi, Damián here!
 <p align="left" width="490" height="165">
   <img align="left" width="300" height="300" src="https://i.pinimg.com/736x/24/bc/9c/24bc9c51c4af455b490793f0d58a4287.jpg"/>
   <p>
