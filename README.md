@@ -3,10 +3,10 @@
   <img align="left" width="300" height="300" src="https://i.pinimg.com/736x/24/bc/9c/24bc9c51c4af455b490793f0d58a4287.jpg"/>
   <p>
     <img src="https://img.shields.io/badge/React%20Native-F29111?logo=React"/>
-    <img src="https://img.shields.io/badge/Expo-8A2BE2?logo=Expo"/>
-    <img src="https://img.shields.io/badge/React-1C78C0?logo=React"/>
-    <img src="https://img.shields.io/badge/Redux-8732D6?logo=redux"/>
     <img src="https://img.shields.io/badge/TypeScript-1B1B1D?logo=typescript"/>
+    <img src="https://img.shields.io/badge/React-1C78C0?logo=React"/>
+    <img src="https://img.shields.io/badge/Expo-8A2BE2?logo=Expo"/>
+    <img src="https://img.shields.io/badge/Redux-8732D6?logo=redux"/>
     <img src="https://img.shields.io/badge/JavaScript-F29111?logo=javascript"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
