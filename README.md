@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
 </p>
-  I'm a passionate self-taught developer from Argentina 🇦🇷 (Also a software engineer 😎), im currently specializing in mobile development using React Native with Expo and CLI! 🔧📱
-
+  I'm a young software engineer passionate for developer amazing frontend apps from Argentina (🇦🇷😎), im currently specializing in mobile development using React Native with Expo and CLI!
+<br></br>
+I currently working for software tech companies for make beautiful applications! 🔧📱
 <br></br>
