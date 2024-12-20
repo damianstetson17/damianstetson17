@@ -20,3 +20,4 @@
 <br></br>
 I currently working for software tech companies for make beautiful applications! 🔧📱
 <br></br>
+You can find me on <a href="https://www.linkedin.com/in/damian-stetson/">LinkedIn</a> for more about me!
