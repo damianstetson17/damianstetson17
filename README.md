@@ -1,6 +1,6 @@
 # 👋 Damián Stetson here!
 <p align="left" width="490" height="165">
-  <img align="left" width="300" height="300" src="https://www.appsierra.com/_next/image?url=https%3A%2F%2Fduws858oznvmq.cloudfront.net%2Faffae607_331a_4cac_a80b_897_f170afc13a.webp&w=3840&q=75"/>
+  <img align="left" width="300" height="300" src="https://i.pinimg.com/736x/24/bc/9c/24bc9c51c4af455b490793f0d58a4287.jpg"/>
   <p>
     <img src="https://img.shields.io/badge/React%20Native-F29111?logo=React"/>
     <img src="https://img.shields.io/badge/Expo-8A2BE2?logo=Expo"/>
