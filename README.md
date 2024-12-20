@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Redux-8732D6?logo=redux"/>
     <img src="https://img.shields.io/badge/TypeScript-1B1B1D?logo=typescript"/>
     <img src="https://img.shields.io/badge/JavaScript-F29111?logo=javascript"/>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
@@ -17,6 +16,6 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   </p>
 </p>
-  I'm a passionate self-taught developer from Argentina 🇦🇷 (Also, almost an software engineer 😎), im currently specializing in mobile development using React Native with Expo! 🔧📱
+  I'm a passionate self-taught developer from Argentina 🇦🇷 (Also a software engineer 😎), im currently specializing in mobile development using React Native with Expo and CLI! 🔧📱
 
 <br></br>
